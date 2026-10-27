@@ -1,0 +1,19 @@
+CREDENCIALES DEL SISTEMA - Hospedaje Pro (datos de demostración)
+URL local: http://127.0.0.1:8010
+Contraseña de todos los usuarios demo: password
+
+Super administrador (plataforma, panel /admin)
+  Correo: superadmin@hospedaje.com
+
+Hotel Sistema Hospedaje (empresa 1)
+  Administrador:  admin@hospedaje.com   <- usar este para Asistente IA y Chat IA
+  Recepcionista:  recepcion@hospedaje.com
+
+Hostal El Viajero (empresa 2)
+  Administrador:  admin@elviajero.com
+
+Notas
+- Solo el rol Administrador ve Asistente IA y Chat IA.
+- Si cambiaste las contraseñas desde el sistema, estas ya no aplican.
+- Base de datos (según .env.example): saas_hospedaje, usuario root, sin contraseña.
+- Clave de Gemini para la IA: la pegas tú en Asistente IA > Configurar IA (se guarda cifrada).
